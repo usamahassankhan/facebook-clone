@@ -20,7 +20,7 @@ function Header() {
       </div>
       <div className="header_input">
         <SearchIcon />
-        <input type="text" />
+        <input placeholder="Search Facebook" type="text" />
       </div>
       <div className="header_center">
         <div className="header_option
