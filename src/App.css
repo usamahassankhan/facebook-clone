@@ -1,7 +1,91 @@
 .app_body{
-    display:flex
+    display:flex;
+    margin-top: 80px;
+    background-color: #f1f2f5;
+    width:100%;
+ 
 }
-.app{
+/* .app{
 background-color: #f1f2f5;
-height: 100vh;
+} */
+@media only screen  and (max-width:1460px) and (min-width:1220px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:120%;
+        }
+
+}
+@media only screen  and (max-width:1220px) and (min-width:1046px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:140%;
+        }
+
+}
+@media only screen  and (max-width:1046px) and (min-width:975px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:150%
+        }
+
+}
+@media only screen  and (max-width:974px) and (min-width:908px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:170%
+        }
+
+}
+@media only screen  and (max-width:907px) and (min-width:850px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:180%
+        }
+
+}
+@media only screen  and (max-width:850px) and (min-width:770px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:190%
+        }
+
+}
+@media only screen  and (max-width:770px) and (min-width:700px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:210%
+        }
+
+}
+@media only screen  and (max-width:700px) and (min-width:400px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:350%
+        }
+
+}
+@media only screen  and (max-width:400px) and (min-width:320px){
+
+    .app_body{
+        /* background-color: red; */
+        background-color:  #f1f2f5;
+        width:400%
+        }
+
 }
